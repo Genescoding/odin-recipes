@@ -1,0 +1,33 @@
+* {
+background-color: wheat;
+ }
+
+.recipe-click {
+color: #9a4545;
+font-style: italic;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+#menu-title {
+color: #9a4545;
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+
+/* Anything below this line concerns individual recipe pages */
+
+.cat-titles {
+font-weight: 500;
+font-size: larger;
+}
+
+.everything {
+font-family: 'Times New Roman', Times, serif;
+}
+
+.test {
+color:blue;
+}
