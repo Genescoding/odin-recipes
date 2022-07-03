@@ -2,7 +2,7 @@
 background-color: wheat;
  }
 
-.recipe-click {
+.text {
 color: #9a4545;
 font-style: italic;
 font-weight: bold;
@@ -10,24 +10,25 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 text-align: center;
 }
 
-#menu-title {
-color: #9a4545;
-font-weight: bold;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-text-align: center;
+.link {
+font-size: larger;    
 }
+
 
 /* Anything below this line concerns individual recipe pages */
 
-.cat-titles {
-font-weight: 500;
-font-size: larger;
+.pagetext {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+.subsection,
+.titles {
+color: #9a4545;
+font-weight: 700;
+font-style: italic;
+ }
+
+.titles {
+font-size: 45px;
 }
 
-.everything {
-font-family: 'Times New Roman', Times, serif;
-}
-
-.test {
-color:blue;
-}
